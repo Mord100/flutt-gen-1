@@ -43,7 +43,7 @@ class IntroPage extends StatelessWidget {
 
               //title
               const Text(
-                'Brand new Sneakers and custom kicks made with premium quality',
+                'Brand new Sneakers and custom kicks made with premium quality.',
                 style: TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w400,
